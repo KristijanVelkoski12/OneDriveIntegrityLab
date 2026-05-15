@@ -1,0 +1,41 @@
+## .NET build outputs
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+## IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+## Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Test results
+TestResults/
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+*.trx
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+## Experiment artifacts (not source)
+results/
+downloads/
+generated/
+
+## OS
+Thumbs.db
+.DS_Store
+desktop.ini
