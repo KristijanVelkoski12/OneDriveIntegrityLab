@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="src/OneDriveIntegrityLab/OneDriveIntegrityLab.csproj" Id="15bf5203-8a92-4b5f-bf82-3e548a5d9fbf" />
+  <Project Path="tests/OneDriveIntegrityLab.Tests/OneDriveIntegrityLab.Tests.csproj" Id="340ed24a-fef8-494d-a912-cd16c57b45b4" />
+</Solution>
